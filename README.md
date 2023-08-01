@@ -5,10 +5,10 @@
 </div>
 
 ## Motivation
-Los Angeles has one of the highest crime rates in America. This repository is to explore the crime area and the type of crimes located in Los Angeles. The data is collected from [Crime Data From 2020 to Present](https://catalog.data.gov/dataset/crime-data-from-2020-to-present)
+Los Angeles has one of the highest crime rates in America. This repository is to explore the crime area and the type of crime located in Los Angeles. The data is collected from [Crime Data From 2020 to Present](https://catalog.data.gov/dataset/crime-data-from-2020-to-present)
 
 ## Exploring the Area
-The top 50 areas of the crime area are shown below. Central LA has the highest crime rate, with a count above 50,000 total crimes commited since 2020.
+The top 50 areas of the crime area are shown below. Central LA has the highest crime rate, with a count above 50,000 total crimes committed since 2020.
 
 <div align="center">
     <img alt="churn" src="Images/CrimePerArea.png">
